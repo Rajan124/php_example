@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body><!-- This is a comment node! -->
+<button onclick="myFunction()">Try it</button>
+<p id="demo"></p>
+<script>
+function myFunction() {
+  var c = document.body.childNodes;
+  var txt = "";
+  var i;
+  for (i = 0; i < c.length; i++) {
+    txt = txt + c[i].nodeName + "<br>";
+  }
+
+  document.getElementById("demo").innerHTML = txt;
+}
+</script>
+
+</body>
+</html>

@@ -1,0 +1,20 @@
+
+                For front end development in most of the language
+child node
+parent node,sibling(previous sibling,next sibling)
+how to append to the child,
+
+unshift fn will shift the selected element to the first.ex;java5.html
+shift will remove the unshifted element
+
+www.jquery.com
+goto api documentation
+
+
+in ajax
+.txt will replace the text
+.html will change the text in path
+
+
+json object is a key and value pair.
+
