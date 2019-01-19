@@ -1,0 +1,21 @@
+git init
+git add ,
+git config --global user.name "user_name"
+git commit -m "first commit"
+git remote add origin git@github.com:user_name/
+project_name.git
+git remove set-url origin https://github.com/user_name/
+project_name.git
+
+git push -f origin master
+git status
+git pull
+git clone https://github.com/user_name/project_name.git
+
+
+-f for force push
+after changing the code from the file 
+type get status
+after that
+type git push
+and then git commit -m "changed file (name)13"
